@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey!
 - 👀 I’m interested in: Linux
-- 🌱 I’m currently learning: Nim-lang
+- 🌱 I’m currently learning: C++
 - 💞️ I’m looking to collaborate on: Я хачу працавать в рідхатє
 - 😄 Pronouns: He.
 - ⚡ Fun fact: idk.
