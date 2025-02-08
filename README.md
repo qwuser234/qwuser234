@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Andrey!
-- 👀 I’m interested in: Linux
-- 🌱 I’m currently learning: C++
-- 💞️ I’m looking to collaborate on: Я хачу працавать в рідхатє
-- 😄 Pronouns: He.
-- ⚡ Fun fact: idk.
-- 🌐 Langauge: Ukranian, Russian
-- 🗺️ Learning Language: English
-- 💻 OS: OpenSUSE TW
+Hello everybode! i am Andriy
+I’m interested in: Linux/Graphics toolkit/debian system
+I’m currently learning: C/C++/Java
+Sex: man
+Fun fact: Іноди можу щось написати
+Langauge: Ukranian, Russian
+Learning Language: English
+OS: Debian Trixie(13) 
